@@ -2,3 +2,4 @@
 ||www.youtube.com^
 ||s.youtube.com^
 ||googlevideos.com^
+||googlevideo.com^
