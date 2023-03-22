@@ -1,0 +1,11 @@
+||bbci.co.uk^
+||youtube.com^
+||www.youtube.com^
+||s.youtube.com^
+||*.googlevideos.com^
+||*.googlevideo.com^
+||nflxext.com^
+||netflix.com^
+||nflximg.net^
+||nflxvideo.net^
+||nflxso.net^
