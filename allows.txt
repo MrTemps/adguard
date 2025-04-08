@@ -18,8 +18,8 @@
 @@||*^$client=192.168.0.250
 ! Comment here
 @@||*^$client=192.168.0.27
-! Comment here
-@@||*^$client=192.168.0.34
+! Pauls PC
+@@||*^$client=192.168.0.248
 ! Comment here
 @@||*^$client=192.168.0.22
 ! Front Room TV
